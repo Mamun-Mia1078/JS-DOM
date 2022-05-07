@@ -1,1 +1,4 @@
-console.log('The man who takes up farming us profiession is farmer so to speak is ');
+//getElementById
+document.getElementById("head1").innerHTML = "yes this is hello " // value change by innerhtml
+var myheading = document.getElementById("head2"); //practice with variable 
+myheading.innerHTML = "practice with variable ";
