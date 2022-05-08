@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Hello world </h2>
+<h3>This is Bangladesh</h3>
+
+<div id="rip">
+<p id="p1">This is number 1 paragraph.</p>
+<p id="p2">This is number 2 paragraph.</p>
+</div>
+
+<script>
+const parent = document.getElementById("rip");
+const child = document.getElementById("p1");
+const para = document.createElement("p");
+const node = document.createTextNode("This is new.");
+para.appendChild(node);
+parent.replaceChild(para,child);
+</script>
+
+</body>
+</html>
