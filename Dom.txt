@@ -1,0 +1,3 @@
+appendchild  mane holo kono kichur seshe add kora
+appendchild() ea shudu matro ekta element add kora jay 
+append () ea multiple element add kora jay 
