@@ -1,0 +1,18 @@
+get eleement by id {
+    id diye dhora hoy 
+    id only ekbar use kora hoy 
+    innter text = sobgulu block letter hoye jabe 
+    text content = browser er moto kore show korbe 
+    for styling = same almost css styling but don't use (-)
+}
+get eleement by class {
+
+}
+
+Query selector {
+    sobsomy ekta jinish return kore (match )
+    ekoi jinish beshi bar thakle se prothom ta dibe 
+    class dhorte ('.class')
+    id dhorte ('#id')
+
+}

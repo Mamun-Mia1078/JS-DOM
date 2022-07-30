@@ -1,0 +1,11 @@
+DOM = {
+    Document Object Model 
+    javascirpt DOM er help niye web page ke intractive kore tole . 
+    javascirpt Object chara kichu bujte pare na . (all HTML Elemnts are object).
+      
+      
+       DOM Analyzer {
+         
+   }
+    
+}
